@@ -43,7 +43,7 @@ Useful upstream tunables you can add as variables (see [SurrealDB environment va
 - `SURREAL_STRICT` — strict mode for the database (off by default)
 - `SURREAL_CAPS_ALLOW_ALL` — broadly enable all engine capabilities (restricted by default)
 
-Connect: `https://<your-domain>` with user `root`, the generated password, namespace `main`, database `main`. Try Surrealist (https://surrealist.app) as a GUI, or `POST /sql` with `Accept: application/json`.
+Connect: `https://{your-domain}` with user `root`, the generated password, namespace `main`, database `main`. Try Surrealist (https://surrealist.app) as a GUI, or `POST /sql` with `Accept: application/json`.
 
 ## Deployment Dependencies
 
